@@ -1,0 +1,5 @@
+publick static class Prakticum() {
+
+
+
+}
